@@ -16,3 +16,9 @@ wrong password and a buzzer will be on for 3 second then off  re-enter
 password again.
 7. To reset password: (locker must be in opened state): insert 10 zeros the
 password will back to default value which is 0000.
+
+
+## Screenshots
+
+
+![locker system project](https://user-images.githubusercontent.com/115344537/209719186-c3ae741b-fb02-4526-9c9a-68d9e6e45003.png)
